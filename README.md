@@ -1,7 +1,7 @@
 ---
 title: "Repositório de Algoritmos e Estruturas de Dados em Java"
 author: "Gabriel"
-date: "`r format(Sys.Date(), '%d/%m/%Y')`"
+date: "r format(Sys.Date(), '%d/%m/%Y')"
 output: html_document
 ---
 
